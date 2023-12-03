@@ -1,0 +1,50 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color:#f4f4f4;
+    color: #0e0d0d;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+section{
+    background-color:#f4f4f4;
+margin: 0px;
+padding: 0px;
+border: 0px solid black;
+border-radius: px;
+
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0 0 15px 0;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 10px;
+}
+
+li {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+/* Add more CSS to style other elements as needed */
